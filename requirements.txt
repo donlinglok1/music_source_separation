@@ -8,4 +8,4 @@ torchlibrosa==0.0.9
 matplotlib==3.3.4
 museval==0.4.0
 inplace-abn==1.1.0
-torch==1.7.1
+torch==2.2.0
